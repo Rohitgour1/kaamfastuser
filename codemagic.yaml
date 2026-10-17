@@ -23,7 +23,8 @@ workflows:
     scripts:
       - name: Install Flutter dependencies
         script: |
-          flutter packages pub get
+          flutter pub get
+          flutter build ios --config-only --no-codesign
 
       - name: Install CocoaPods dependencies
         script: |
