@@ -5,7 +5,7 @@ workflows:
     instance_type: mac_mini_m2
 
     integrations:
-      app_store_connect: stocksphere # Codemagic account me active App Store Connect API key name
+      app_store_connect: kaamfast # Codemagic account me active App Store Connect API key name
 
     environment:
       flutter: 3.41.1
