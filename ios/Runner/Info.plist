@@ -67,7 +67,5 @@
 	<string>Kaam Fast needs your location to set pickup and delivery address.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>Kaam Fast needs your location to set pickup and delivery address.</string>
-	<key>NSUserTrackingUsageDescription</key>
-	<string>Kaam Fast uses this identifier to show relevant ads.</string>
 </dict>
 </plist>
